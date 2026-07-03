@@ -37,5 +37,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: https://www.linkedin.com/in/harshitha-v-23165a35b/
+- Email: harshithav1424@gmail.com
